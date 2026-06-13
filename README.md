@@ -46,6 +46,8 @@ O sistema possui um painel administrativo que apresenta:
 ## 👩‍💻 Desenvolvedora
 
 **Maria Luisa Rodrigues Rocha**
+**Beatriz Da Silva Moraes**
+**Kauã Lopes Firmino**
 
 Estudante do curso de Engenharia Da Computação, Universidade de Sorocaba (UNISO). 
 
